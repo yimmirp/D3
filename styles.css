@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+#barchart {
+    background-color: #c7d9d9;
+
+}
+
+
